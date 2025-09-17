@@ -9,7 +9,7 @@ Steps to build and/or run the software:
 
 1. Install Rust if you haven't already
 2. Navigate to folder with the terminal
-3. Type the following command: rcc Hello.rs
+3. Type the following command: rustc Hello.rs
 4. Run the compiled program
 
 Instructions for using the software:
